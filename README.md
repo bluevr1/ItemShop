@@ -1,12 +1,12 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
-CID_423_Athena_Commando_F_Painter, 1500
-EID_BasketballV2, 500
+CID_694_Athena_Commando_M_CatBurglar, 1000
+CID_313_Athena_Commando_M_KpopFashion, 1200
+EID_KPopDance03, 800
 na
 na
 na
 CID_586_Athena_Commando_F_PunkDevil, 1200
-Pickaxe_ID_138_Gnome, 800
-CID_170_Athena_Commando_F_Luchador, 1200
-Glider_ID_110_TeriyakiFish, 800
-Wrap_182_NeonAnimal, 500
-EID_TaiChi, 500
+Pickaxe_ID_360_DesertOpsCamoFemale, 800
+CID_753_Athena_Commando_F_Hostile, 1200
+CID_674_Athena_Commando_F_HoodieBandit, 1000
+CID_381_Athena_Commando_F_BaseballKitbash, 800
+EID_ArtGiant, 500
