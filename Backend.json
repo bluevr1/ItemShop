@@ -1,19 +1,19 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
+    "itemGrants": ["AthenaCharacter:CID_381_Athena_Commando_F_BaseballKitbash"],
     "price": 1200
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_138_Gnome"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_360_DesertOpsCamoFemale"],
     "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaCharacter:CID_170_Athena_Commando_F_Luchador"],
+    "itemGrants": ["AthenaCharacter:CID_674_Athena_Commando_F_HoodieBandit"],
     "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaGlider:Glider_ID_110_TeriyakiFish"],
+    "itemGrants": ["AthenaGlider:Umbrella_Season_12"],
     "price": 800
   },
   "daily5": {
@@ -21,19 +21,19 @@
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_TaiChi"],
+    "itemGrants": ["AthenaDance:EID_ArtGiant"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_424_Athena_Commando_M_Vigilante"],
+    "itemGrants": ["AthenaCharacter:CID_694_Athena_Commando_M_CatBurglar"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_423_Athena_Commando_F_Painter"],
+    "itemGrants": ["AthenaCharacter:CID_313_Athena_Commando_M_KpopFashion"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_BasketballV2"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_KPopDance03"],
+    "price": 800
   }
 }
